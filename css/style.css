@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+h1
+    {
+        color:blue;
+        font-size: 30pt;
+        font-family: 'Luckiest Guy', cursive;
+    }
+
+.menu
+    {
+        background-color: darkorange;
+        padding:30px;
+        border-radius: 10px;
+    }
+
+a
+    {
+        color:mintcream;
+        text-decoration:none;
+        margin-right: 20px;
+        font-family: 'Luckiest Guy', cursive;
+    }
+
+.slider
+    {
+        width: 100%;
+        height: 300px;
+        background-color: deeppink;
+        float:left;
+    }
+
+.box1
+    {
+        width: 23%;
+        height: 200px;
+        background-color: khaki;
+        float:left;
+        border-radius: 20px;
+        margin: 5px;
+        border: 1px solid black;
+
+    }
+
+.box2
+    {
+        width: 23%;
+        height: 200px;
+        background-color:lemonchiffon;
+        float:left;
+        border-radius: 20px;
+        margin: 5px;
+        border: 2px dashed blue;
+    }
+
+.box3
+    {
+        width: 23%;
+        height: 200px;
+        background-color: khaki;
+        float:left;
+        border-radius: 20px;
+        margin: 5px;
+        border: 3px dotted green;
+    }
+
+.box4
+    {
+        width: 23%;
+        height: 200px;
+        background-color:lemonchiffon;
+        float:left;
+        border-radius: 20px;
+        margin: 5px;
+    }
+
+.footer
+    {
+        width: 100%;
+        height: 50px;
+        background-color: darkseagreen;
+        float: left;
+        text-align: center;
+    }
+
+
+ul 
+    {
+        list-style-type:square;
+        /*list-style-type:circle;*/
+    }
+
+ol
+    {
+        list-style-type:lower-greek;
+    }
